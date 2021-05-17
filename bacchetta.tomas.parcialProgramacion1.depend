@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621290506 source:c:\users\tomas\desktop\parcial program\bacchetta.tomas.parcialprogramacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
